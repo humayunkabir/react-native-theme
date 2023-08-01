@@ -1,6 +1,6 @@
 {
   "name": "@humayunkabir/react-native-theme",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A customizable theme for React Native apps",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
